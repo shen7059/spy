@@ -120,8 +120,6 @@ rtp://239.3.1.158:8000
 rtp://239.3.1.159:8000
 #EXTINF:-1 tvg-name="CGTN 新闻HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN新闻HD.png" group-title="📺专题频道",CGTN 新闻HD
 rtp://239.3.1.215:4220
-#EXTINF:-1 tvg-name="体育赛事HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/体育.png" group-title="📺专题频道",体育赛事HD
-rtp://239.3.1.157:8176
 #EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/军旅剧场.png" group-title="📺专题频道",军旅剧场
 rtp://239.3.1.68:4120
 #EXTINF:-1 tvg-name="动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿.png" group-title="📺专题频道",动画
@@ -289,4 +287,5 @@ rtp//239.3.1.114:8001
 #EXTINF:-1 tvg-name="高网" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高网.png" group-title="📺其他频道",高网
 rtp://239.3.1.88:4120
 #EXTINF:-1 tvg-name="魅力时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魅力时尚.png" group-title="📺其他频道",魅力时尚
+
 rtp://239.3.1.196:9012
