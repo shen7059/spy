@@ -262,8 +262,6 @@ rtp://239.3.1.126:8001
 rtp://239.3.1.127:8001
 #EXTINF:-1 tvg-name="精选" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精选.png" group-title="📺其他频道",精选
 rtp://239.3.1.74:4120
-#EXTINF:-1 tvg-name="纪实人文HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪实人文HD.png" group-title="📺其他频道",纪实人文HD
-rtp://239.3.1.212:8060
 #EXTINF:-1 tvg-name="美人" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美人.png" group-title="📺其他频道",美人
 rtp://239.3.1.73:4120
 #EXTINF:-1 tvg-name="美妆" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美妆.png" group-title="📺其他频道",美妆
@@ -289,3 +287,4 @@ rtp://239.3.1.88:4120
 #EXTINF:-1 tvg-name="魅力时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魅力时尚.png" group-title="📺其他频道",魅力时尚
 
 rtp://239.3.1.196:9012
+
