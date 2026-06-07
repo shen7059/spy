@@ -8,16 +8,11 @@ FrenchLover HD,http://45.136.153.199:80/FrenchLover/mono.m3u8
 Hustler HD,http://45.136.153.199:80/Hustler/mono.m3u8
 Private,http://45.136.153.199:80/Private/mono.m3u8
 playboy,http://45.136.153.199:80/PlayboyHD/mono.m3u8
-Blue Hustler,http://88b9da48.kazmazpaz.ru:80/iptv/XVU58NBPX2LUMP/1064/manifest.m3u8
-Brazzers TV Europe,http://88b9da48.kazmazpaz.ru:80/iptv/XVU58NBPX2LUMP/910/manifest.m3u8
-Русская Ночь,http://88b9da48.kazmazpaz.ru:80/iptv/XVU58NBPX2LUMP/147/manifest.m3u8
-Playboy Россия,http://88b9da48.kazmazpaz.ru:80/iptv/XVU58NBPX2LUMP/527/manifest.m3u8
-Eroxxx HD Россия,http://88b9da48.kazmazpaz.ru:80/iptv/XVU58NBPX2LUMP/5015/manifest.m3u8
-Exxxotica HD Россия,http://88b9da48.kazmazpaz.ru:80/iptv/XVU58NBPX2LUMP/9346/manifest.m3u8
-Vivid Red HD,http://88b9da48.kazmazpaz.ru:80/iptv/XVU58NBPX2LUMP/2162/manifest.m3u8
-EroLuxe publicagent,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/97159/hls/pl.m3u8
-EroLuxe parody,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/97495/hls/pl.m3u8
-EroLuxe gangbang,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/97437/hls/pl.m3u8
-EroLuxe footfetish,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/97493/hls/pl.m3u8
-EroLuxe faketaxi,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/96297/hls/pl.m3u8
-EroLuxe cuckold,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/96952/hls/pl.m3u8
+XY Plus HD,http://85.11.144.9:3341/103
+XY Max HD,http://85.11.144.9:3341/102
+PENTHOUSE HD,http://162.19.246.113/XXX4/index.m3u8
+Brazzers TV Europe,http://193.239.186.231/BRAZZERS/index.m3u8
+Redlight HD,http://85.11.144.9:3341/39
+Eros,http://85.11.144.9:3341/28
+Eroxxx HD,http://85.11.144.9:3341/29
+passionxxx,http://85.11.144.9:3341/33
