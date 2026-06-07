@@ -1,8 +1,13 @@
-xxx,http://94.156.59.233:8899/udp/239.10.3.198:30000
-Dorcelxxx,http://45.136.153.199:80/DorcelXXXHD/mono.m3u8
+DorcelXXXHD,http://45.136.153.199:80/DorcelXXXHD/mono.m3u8
 DorcelHD,http://45.136.153.199:80/DorcelHD/mono.m3u8
-hustlerHD,http://88b9da48.kazmazpaz.ru:80/iptv/XVU58NBPX2LUMP/244/manifest.m3u8
-Private,http://88b9da48.kazmazpaz.ru:80/iptv/XVU58NBPX2LUMP/243/manifest.m3u8
+RealityKings,http://45.136.153.199:80/RealityKings/mono.m3u8
+BangU.http://45.136.153.199:80/BangU/mono.m3u8
+Reality Kings,http://45.136.153.199:80/RealityKings/mono.m3u8
+Babes TV,http://45.136.153.199:80/BabesTV/mono.m3u8
+FrenchLover HD,http://45.136.153.199:80/FrenchLover/mono.m3u8
+Hustler HD,http://45.136.153.199:80/Hustler/mono.m3u8
+Private,http://45.136.153.199:80/Private/mono.m3u8
+playboy,http://45.136.153.199:80/PlayboyHD/mono.m3u8
 Blue Hustler,http://88b9da48.kazmazpaz.ru:80/iptv/XVU58NBPX2LUMP/1064/manifest.m3u8
 Brazzers TV Europe,http://88b9da48.kazmazpaz.ru:80/iptv/XVU58NBPX2LUMP/910/manifest.m3u8
 Русская Ночь,http://88b9da48.kazmazpaz.ru:80/iptv/XVU58NBPX2LUMP/147/manifest.m3u8
@@ -16,4 +21,3 @@ EroLuxe gangbang,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/974
 EroLuxe footfetish,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/97493/hls/pl.m3u8
 EroLuxe faketaxi,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/96297/hls/pl.m3u8
 EroLuxe cuckold,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/96952/hls/pl.m3u8
-playboy,http://45.136.153.199:80/PlayboyHD/mono.m3u8
