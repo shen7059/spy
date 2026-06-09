@@ -17,7 +17,7 @@ Erox,http://85.11.144.9:3341/28
 Eroxxx HD,http://85.11.144.9:3341/29
 passionxxx,http://85.11.144.9:3341/33
 Dorcel TV HD,http://88b9da48.kazmazpaz.ru:80/iptv/RL8MVW8UX8NNXK/245/manifest.m3u8
-Hustler HD,http://185.78.112.47:8077/hustler_hd/index.m3u8
+Hustler HD2,http://185.78.112.47:8077/hustler_hd/index.m3u8
 Blue Hustler,http://88b9da48.kazmazpaz.ru:80/iptv/RL8MVW8UX8NNXK/1064/manifest.m3u8
 Brazzers TV Europe,http://88b9da48.kazmazpaz.ru:80/iptv/RL8MVW8UX8NNXK/910/manifest.m3u8
 Eroxxx HD Россия,http://88b9da48.kazmazpaz.ru:80/iptv/RL8MVW8UX8NNXK/5015/manifest.m3u8
