@@ -8,7 +8,6 @@ FrenchLover HD,http://45.136.153.199:80/FrenchLover/mono.m3u8
 Hustler HD,http://45.136.153.199:80/Hustler/mono.m3u8
 Private,http://45.136.153.199:80/Private/mono.m3u8
 playboy,http://45.136.153.199:80/PlayboyHD/mono.m3u8
-Playboy HD,http://85.11.144.9:3341/47
 XY Plus HD,http://85.11.144.9:3341/103
 XY Max HD,http://85.11.144.9:3341/102
 PENTHOUSE HD,http://162.19.246.113/XXX4/index.m3u8
@@ -17,19 +16,24 @@ Redlight HD,http://85.11.144.9:3341/39
 Erox,http://85.11.144.9:3341/28
 Eroxxx HD,http://85.11.144.9:3341/29
 passionxxx,http://85.11.144.9:3341/33
+Legalporno,http://88b9da48.kazmazpaz.ru:80/iptv/42L7TCH8YYKLBRHNPV52HBRN/20090/manifest.m3u8
 Dorcel TV HD,http://88b9da48.kazmazpaz.ru:80/iptv/RL8MVW8UX8NNXK/245/manifest.m3u8
-Hustler HD,http://85.11.144.9:3341/30
-Blue Hustler,http://185.78.112.47:8077/hustler_hd/index.m3u8
+Hustler HD,http://185.78.112.47:8077/hustler_hd/index.m3u8
+Blue Hustler,http://85.11.144.9:3341/30
 Brazzers TV Europe,http://88b9da48.kazmazpaz.ru:80/iptv/RL8MVW8UX8NNXK/910/manifest.m3u8
 Eroxxx HD Россия,http://88b9da48.kazmazpaz.ru:80/iptv/RL8MVW8UX8NNXK/5015/manifest.m3u8
 Exxxotica HD Россия,http://88b9da48.kazmazpaz.ru:80/iptv/RL8MVW8UX8NNXK/9346/manifest.m3u8
 Private TV Россия,http://88b9da48.kazmazpaz.ru:80/iptv/RL8MVW8UX8NNXK/243/manifest.m3u8
 Vivid Red HD,http://88b9da48.kazmazpaz.ru:80/iptv/RL8MVW8UX8NNXK/2162/manifest.m3u8
+Vivid Red HD,http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6264/maintest.m3u8
 Русская Ночь,://88b9da48.kazmazpaz.ru:80/iptv/RL8MVW8UX8NNXK/147/manifest.m3u8
 Playboy Россия,http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/527/manifest.m3u8
+центральное тв Ru,http://88b9da48.kazmazpaz.ru:80/iptv/42L7TCH8YYKLBRHNPV52HBRN/20090/manifest.m3u8
 Barely Legal,http://94.228.166.20:8000/play/a02r/index.m3u8
 Brazzers,http://193.239.186.231/BRAZZERS/index.m3u8
 Playboy,http://31.148.48.15/Playboy_TV/index.m3u8
+Playboy HD,http://85.11.144.9:3341/47
+Playboy TV Latin America,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 Fashion_TV,http://31.148.48.15/Fashion_TV/index.m3u8
 Playboy_TV,http://31.148.48.15:80/Playboy_TV/playlist.m3u8
 XXX Blonde,https://fasterwebtv.com:8443/blonde.m3u8
