@@ -30,6 +30,7 @@ Vivid Red HD,http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6264/maintest.m3u8
 Playboy Россия,http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/527/manifest.m3u8
 центральное тв Ru,http://88b9da48.kazmazpaz.ru:80/iptv/42L7TCH8YYKLBRHNPV52HBRN/20090/manifest.m3u8
 Barely Legal,http://94.228.166.20:8000/play/a02r/index.m3u8
+Centoxcento,http://94.236.201.122/CENTOXCENTO/index.m3u8
 Brazzers,http://193.239.186.231/BRAZZERS/index.m3u8
 Playboy,http://31.148.48.15/Playboy_TV/index.m3u8
 Playboy HD,http://85.11.144.9:3341/47
