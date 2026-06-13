@@ -12,6 +12,32 @@ XY Plus HD,http://85.11.144.9:3341/103
 XY Max HD,http://85.11.144.9:3341/102
 PENTHOUSE HD,http://162.19.246.113/XXX4/index.m3u8
 Brazzers TV Europe,http://193.239.186.231/BRAZZERS/index.m3u8
+Brazzers,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12128/index.m3u8
+Brazzers TV Europe,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12113/index.m3u8
+Meiden,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12125/index.m3u8
+Vixen,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12124/index.m3u8
+Naughty,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12122/index.m3u8
+Alanding,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12121/index.m3u8
+21sextury,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12111/index.m3u8
+Erotic,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12110/index.m3u8
+Eroticax,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12109/index.m3u8
+DDF,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12108/index.m3u8
+Erotic4k,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12107/index.m3u8
+Alba,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12106/index.m3u8
+Ox-ax,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/11068/index.m3u8
+Kinxxx,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/11052/index.m3u8
+Extasy,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/11051/index.m3u8
+Eromania4k,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/10049/index.m3u8
+REDLIGHT,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/9066/index.m3u8
+HustlerHD,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/9065/index.m3u8
+DORCELTV,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/9064/index.m3u8
+SuperoneHD,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/6298/index.m3u8
+Erox,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/6296/index.m3u8
+erotic8,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/6295/index.m3u8
+erotic7,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/6294/index.m3u8
+erotic6,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/6293/index.m3u8
+Brazzers TV Europe,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/11117/index.m3u8
+Brazzers TV Europe,http://88b9da48.kazmazpaz.ru:80/iptv/Q3DW57VGFFQMKZ/6209/manifest.m3u8
 Redlight HD,http://85.11.144.9:3341/39
 Erox,http://85.11.144.9:3341/28
 Eroxxx HD,http://85.11.144.9:3341/29
@@ -21,11 +47,14 @@ Legalporno,http://88b9da48.kazmazpaz.ru:80/iptv/42L7TCH8YYKLBRHNPV52HBRN/20090/m
 Dorcel TV HD,http://88b9da48.kazmazpaz.ru:80/iptv/RL8MVW8UX8NNXK/245/manifest.m3u8
 Dorcel TV HD,http://88b9da48.kazmazpaz.ru:80/iptv/GKTT8YW6E9SFM2/245/manifest.m3u8
 Dorcel TV HD,http://88b9da48.kazmazpaz.ru:80/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/245/manifest.m3u8
+Dorcel TV HD,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12131/index.m3u8
+Flix,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12130/index.m3u8
 Hustler HD,http://185.78.112.47:8077/hustler_hd/index.m3u8
 Hustler HD,http://185.246.209.181/Hustler/index.m3u8
 Private HD2,http://185.246.209.181/Private/index.m3u8
 DorcelHD2,http://185.246.209.181/DorcelHD/index.m3u8
 FrenchLover2,http://185.246.209.181/FrenchLover/index.m3u8
+BangU,http://185.246.209.181/BangU/index.m3u8
 Blue Hustler,http://85.11.144.9:3341/30
 Blue Hustler,http://88b9da48.kazmazpaz.ru:80/iptv/GKTT8YW6E9SFM2/1064/manifest.m3u8
 Brazzers TV Europe,http://88b9da48.kazmazpaz.ru:80/iptv/RL8MVW8UX8NNXK/910/manifest.m3u8
@@ -62,6 +91,18 @@ DorcelHD,http://169.150.223.25/DorcelHD/index.m3u8
 ADULT2,http://143.244.63.87/adult2/index.m3u8
 ADULT6,http://143.244.63.87/adult6/playlist.m3u8
 ADULT1,http://143.244.63.87/adult1/index.m3u8
+Erox HD,http://85.11.144.9:3341/28
+Eroxxx HD,http://85.11.144.9:3341/29
+Hustler HD,http://85.11.144.9:3341/30
+HOT2 HD,http://85.11.144.9:3341/33
+Redlight HD,http://85.11.144.9:3341/39
+Vivid TV HD,http://85.11.144.9:3341/41
+Playboy HD,http://85.11.144.9:3341/47
+XY Mix HD,http://85.11.144.9:3341/101
+XY Plus HD,http://85.11.144.9:3341/103
+XY Max HD,http://85.11.144.9:3341/102
+Crota HD,http://85.11.144.9:3341/31
+HOT1 HD,http://85.11.144.9:3341/34
 Ero Luxe Japanese,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95284/hls/pl.m3u8
 EroLuxe lesbians,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95720/hls/pl.m3u8
 EroLuxe henati,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/94683/hls/pl.m3u8
@@ -89,27 +130,27 @@ Private РОССИЯ,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c
 Redlight РОССИЯ,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/90254/hls/pl.m3u8
 Hustler РОССИЯ,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/93665/hls/pl.m3u8
 Extasy РОССИЯ,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/26382/hls/pl.m3u8
-XXX Blonde,https://fasterwebtv.com:8443/blonde.m3u8
-XXX Brunette,https://fasterwebtv.com:8443/brunette.m3u8
-XXX Compilation,https://fasterwebtv.com:8443/compilation.m3u8
-XXX Gay,https://fasterwebtv.com:8443/gay.m3u8
-XXX Anal,https://fasterwebtv.com:8443/anal.m3u8
-XXX Gangbang,https://fasterwebtv.com:8443/gangbang.m3u8
-XXX Rough,https://fasterwebtv.com:8443/rough.m3u8
-XXX Russian,https://fasterwebtv.com:8443/russian.m3u8
-XXX Threesome,https://fasterwebtv.com:8443/threesome.m3u8
-XXX Cuckold,https://fasterwebtv.com:8443/cuckold.m3u8
-XXX Teen,https://fasterwebtv.com:8443/teen.m3u8
-XXX Blowjob,https://fasterwebtv.com:8443/blowjob.m3u8
-XXX Lesbian,https://fasterwebtv.com:8443/lesbian.m3u8
-XXX Hardcore,https://fasterwebtv.com:8443/hardcore.m3u8
-XXX POV,https://fasterwebtv.com:8443/pov.m3u8
-XXX Interracial,https://fasterwebtv.com:8443/interracial.m3u8
-XXX Big Ass,https://fasterwebtv.com:8443/bigass.m3u8
-XXX Pornstar,https://fasterwebtv.com:8443/pornstar.m3u8
-XXX Fetish,https://fasterwebtv.com:8443/fetish.m3u8
-XXX Big Tits,https://fasterwebtv.com:8443/bigtits.m3u8
-XXX Big Dick,https://fasterwebtv.com:8443/bigdick.m3u8
-XXX MILF,https://fasterwebtv.com:8443/milf.m3u8
-XXX Live Cams,https://fasterwebtv.com:8443/livecams.m3u8
-XXX Latina,https://fasterwebtv.com:8443/latina.m3u8
+XXX Blonde,https://cdn.adultiptv.net/blonde.m3u8
+XXX Brunette,https://cdn.adultiptv.net/brunette.m3u8
+XXX Compilation,https://cdn.adultiptv.net/compilation.m3u8
+XXX Gay,https://cdn.adultiptv.net/gay.m3u8
+XXX Anal,https://cdn.adultiptv.net/anal.m3u8
+XXX Gangbang,https://cdn.adultiptv.net/gangbang.m3u8
+XXX Rough,https://cdn.adultiptv.net/rough.m3u8
+XXX Russian,https://cdn.adultiptv.net/russian.m3u8
+XXX Threesome,https://cdn.adultiptv.net/threesome.m3u8
+XXX Cuckold,https://cdn.adultiptv.net/cuckold.m3u8
+XXX Teen,https://cdn.adultiptv.net/teen.m3u8
+XXX Blowjob,https://cdn.adultiptv.net/blowjob.m3u8
+XXX Lesbian,https://cdn.adultiptv.net/lesbian.m3u8
+XXX Hardcore,https://cdn.adultiptv.net/hardcore.m3u8
+XXX POV,https://cdn.adultiptv.net/pov.m3u8
+XXX Interracial,https://cdn.adultiptv.net/interracial.m3u8
+XXX Big Ass,https://cdn.adultiptv.net/bigass.m3u8
+XXX Pornstar,https://cdn.adultiptv.net/pornstar.m3u8
+XXX Fetish,https://cdn.adultiptv.net/fetish.m3u8
+XXX Big Tits,https://cdn.adultiptv.net/bigtits.m3u8
+XXX Big Dick,https://cdn.adultiptv.net/bigdick.m3u8
+XXX MILF,https://cdn.adultiptv.net/milf.m3u8
+XXX Live Cams,https://cdn.adultiptv.net/livecams.m3u8
+XXX Latina,https://cdn.adultiptv.net/latina.m3u8
