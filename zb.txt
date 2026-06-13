@@ -16,9 +16,14 @@ Redlight HD,http://85.11.144.9:3341/39
 Erox,http://85.11.144.9:3341/28
 Eroxxx HD,http://85.11.144.9:3341/29
 passionxxx,http://85.11.144.9:3341/33
+PASSIONXXX HD,http://94.236.201.122/PASSIONXXX/index.m3u8
 Legalporno,http://88b9da48.kazmazpaz.ru:80/iptv/42L7TCH8YYKLBRHNPV52HBRN/20090/manifest.m3u8
 Dorcel TV HD,http://88b9da48.kazmazpaz.ru:80/iptv/RL8MVW8UX8NNXK/245/manifest.m3u8
 Hustler HD,http://185.78.112.47:8077/hustler_hd/index.m3u8
+Hustler HD,http://185.246.209.181/Hustler/index.m3u8
+Private HD2,http://185.246.209.181/Private/index.m3u8
+DorcelHD2,http://185.246.209.181/DorcelHD/index.m3u8
+FrenchLover2,http://185.246.209.181/FrenchLover/index.m3u8
 Blue Hustler,http://85.11.144.9:3341/30
 Brazzers TV Europe,http://88b9da48.kazmazpaz.ru:80/iptv/RL8MVW8UX8NNXK/910/manifest.m3u8
 Eroxxx HD Россия,http://88b9da48.kazmazpaz.ru:80/iptv/RL8MVW8UX8NNXK/5015/manifest.m3u8
@@ -28,6 +33,8 @@ Vivid Red HD,http://88b9da48.kazmazpaz.ru:80/iptv/RL8MVW8UX8NNXK/2162/manifest.m
 Vivid Red HD,http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6264/maintest.m3u8
 Русская Ночь,://88b9da48.kazmazpaz.ru:80/iptv/RL8MVW8UX8NNXK/147/manifest.m3u8
 Playboy Россия,http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/527/manifest.m3u8
+Hustler HD,http://88b9da48.kazmazpaz.ru:80/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/244/manifest.m3u8
+Hustler TV,http://88b9da48.kazmazpaz.ru:80/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/1064/manifest.m3u8
 центральное тв Ru,http://88b9da48.kazmazpaz.ru:80/iptv/42L7TCH8YYKLBRHNPV52HBRN/20090/manifest.m3u8
 Barely Legal,http://94.228.166.20:8000/play/a02r/index.m3u8
 Centoxcento,http://94.236.201.122/CENTOXCENTO/index.m3u8
@@ -40,6 +47,9 @@ Fashion_TVHD,http://169.150.223.25/FashionTV/index.m3u8
 Playboy_TV,http://31.148.48.15:80/Playboy_TV/playlist.m3u8
 Erolic3,http://169.150.223.25/Hustler/index.m3u8
 DorcelHD,http://169.150.223.25/DorcelHD/index.m3u8
+ADULT2,http://143.244.63.87/adult2/index.m3u8
+ADULT6,http://143.244.63.87/adult6/playlist.m3u8
+ADULT1,http://143.244.63.87/adult1/index.m3u8
 Ero Luxe Japanese,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95284/hls/pl.m3u8
 EroLuxe lesbians,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95720/hls/pl.m3u8
 EroLuxe henati,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/94683/hls/pl.m3u8
