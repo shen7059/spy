@@ -29,6 +29,7 @@ DorcelHD2,http://185.246.209.181/DorcelHD/index.m3u8
 FrenchLover2,http://185.246.209.181/FrenchLover/index.m3u8
 BangU,http://185.246.209.181/BangU/index.m3u8
 Brazzers TV Europe,http://193.239.186.231/BRAZZERS/index.m3u8
+Playboy,http://201.207.54.159:8000/play/a06u/index.m3u8
 Dorcel TV HD,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12131/index.m3u8
 Flix,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12130/index.m3u8
 Brazzers,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12128/index.m3u8
@@ -110,6 +111,9 @@ DorcelHD,http://169.150.223.25/DorcelHD/index.m3u8
 ADULT2,http://143.244.63.87/adult2/index.m3u8
 ADULT6,http://143.244.63.87/adult6/playlist.m3u8
 ADULT1,http://143.244.63.87/adult1/index.m3u8
+Eroxxx Hd,http://143.244.63.87/eroxxx/index.m3u8
+Pinkerotic3,http://143.244.63.87/pinkerotic3/index.m3u8
+Pinkerotic2,http://143.244.63.87/pinkerotic2/index.m3u8
 Docel,http://23.95.72.63:8080/Dorcel/index.m3u8
 brazzers,http://23.95.72.63:8080/brazzers/index.m3u8
 XXX Blonde,https://cdn.adultiptv.net/blonde.m3u8
