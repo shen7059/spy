@@ -1,6 +1,11 @@
 RealityKings,http://45.136.153.199:80/RealityKings/mono.m3u8
+Asshole Fever россия,http://d029dcec.kazmazpaz.ru/iptv/8XFKA8883W9M5K/12169/manifest.m3u8
+центральное тв Ru,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/20090/manifest.m3u8
+Центральное ТВ RU,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/20090/manifest.m3u8
 BangU.http://45.136.153.199:80/BangU/mono.m3u8
 Babes TV,http://45.136.153.199:80/BabesTV/mono.m3u8
+Dorcel TV,http://77.46.130.252:99/dorcel
+Private,http://77.46.130.252:99/private
 RealityKings,http://79.127.207.193:80/RealityKings/playlist.m3u8
 XY Plus HD,http://85.11.144.9:3341/103
 XY Max HD,http://85.11.144.9:3341/102
@@ -25,6 +30,7 @@ Meiden,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12125/index.m3u
 Vixen,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12124/index.m3u8
 Naughty,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12122/index.m3u8
 Alanding,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12121/index.m3u8
+Alanding,http://88b9da48.kazmazpaz.ru:80/iptv/AE8BY6FHF5ZGAG/6215/manifest.m3u8
 21sextury,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12111/index.m3u8
 Erotic,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12110/index.m3u8
 Eroticax,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12109/index.m3u8
@@ -71,6 +77,7 @@ Playboy Россия,http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/527/man
 Hustler HD,http://88b9da48.kazmazpaz.ru:80/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/244/manifest.m3u8
 центральное тв Ru,http://88b9da48.kazmazpaz.ru:80/iptv/42L7TCH8YYKLBRHNPV52HBRN/20090/manifest.m3u8
 центральное тв Ru,http://88b9da48.kazmazpaz.ru:80/iptv/Q3DW57VGFFQMKZ/20090/manifest.m3u8
+россия 1 Fhd,http://gohyperspeed.com/live/1012180777/IUI2LzkHvx/500174207.m3u8
 Barely Legal,http://94.228.166.20:8000/play/a02r/index.m3u8
 Centoxcento,http://94.236.201.122/CENTOXCENTO/index.m3u8
 Brazzers,http://193.239.186.231/BRAZZERS/index.m3u8
