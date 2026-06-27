@@ -1,10 +1,11 @@
 RealityKings,http://45.136.153.199:80/RealityKings/mono.m3u8
 Asshole Fever россия,http://d029dcec.kazmazpaz.ru/iptv/8XFKA8883W9M5K/12169/manifest.m3u8
+RealityKings,http://45.136.153.199:80/RealityKings/mono.m3u8
 центральное тв Ru,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/20090/manifest.m3u8
 Центральное ТВ RU,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/20090/manifest.m3u8
 Hotguys,http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/N38U657879GPVVDFAYZ26AX5/6223/index.m3u8
-Ero Luxe Cuckold,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/96952/hls/pl.m3u8
-Ero Luxe Publicagent,http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/97159/hls/pl.m3u8
+BangU,http://169.150.223.25/BangU/index.m3u8
+BangU,http://79.127.207.193:80/BangU/playlist.m3u8
 BangU.http://45.136.153.199:80/BangU/mono.m3u8
 Babes TV,http://45.136.153.199:80/BabesTV/mono.m3u8
 Dorcel TV,http://77.46.130.252:99/dorcel
@@ -21,10 +22,12 @@ passionxxx,http://85.11.144.9:3341/33
 Playboy HD,http://85.11.144.9:3341/47
 Crota HD,http://85.11.144.9:3341/31
 HOT1 HD,http://85.11.144.9:3341/34
-PASSIONXXX HD,http://94.236.201.122/PASSIONXXX/index.m3u8
 BangU,http://185.246.209.181/BangU/index.m3u8
+PASSIONXXX HD,http://94.236.201.122/PASSIONXXX/index.m3u8
 Brazzers TV Europe,http://193.239.186.231/BRAZZERS/index.m3u8
 Playboy,http://201.207.54.159:8000/play/a06u/index.m3u8
+Playboy,http://45.228.235.116:8000/play/a02t/index.m3u8
+Playboy,http://190.93.191.4:9898/play/a07t/index.m3u8
 Dorcel TV HD,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12131/index.m3u8
 Flix,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12130/index.m3u8
 Brazzers,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12128/index.m3u8
@@ -32,8 +35,7 @@ Brazzers TV Europe,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/121
 Meiden,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12125/index.m3u8
 Vixen,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12124/index.m3u8
 Naughty,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12122/index.m3u8
-Alanding,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12121/index.m3u8
-Alanding,http://88b9da48.kazmazpaz.ru:80/iptv/AE8BY6FHF5ZGAG/6215/manifest.m3u8
+Aladding,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12121/index.m3u8
 21sextury,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12111/index.m3u8
 Erotic,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12110/index.m3u8
 Eroticax,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12109/index.m3u8
@@ -56,7 +58,6 @@ Brazzers TV Europe,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/111
 Dorcel TV HD,http://88b9da48.kazmazpaz.ru:80/iptv/AHMQNVLWUTM5PW/245/manifest.m3u8
 Hustler HD,http://88b9da48.kazmazpaz.ru:80/iptv/AHMQNVLWUTM5PW/244/manifest.m3u8
 Private TV Россия,http://88b9da48.kazmazpaz.ru:80/iptv/AHMQNVLWUTM5PW/243/manifest.m3u8
-Blue Hustler,http://88b9da48.kazmazpaz.ru:80/iptv/AHMQNVLWUTM5PW/1064/manifest.m3u8
 Brazzers TV Europe,http://88b9da48.kazmazpaz.ru:80/iptv/AHMQNVLWUTM5PW/910/manifest.m3u8
 Playboy Россия,http://88b9da48.kazmazpaz.ru:80/iptv/AHMQNVLWUTM5PW/527/manifest.m3u8
 Eroxxx HD Россия,http://88b9da48.kazmazpaz.ru:80/iptv/AHMQNVLWUTM5PW/5015/manifest.m3u8
