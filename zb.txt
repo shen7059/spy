@@ -8,19 +8,11 @@
 松视1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 松视2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 松视3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-RealityKings,http://45.136.153.199:80/RealityKings/mono.m3u8
-Asshole Fever россия,http://d029dcec.kazmazpaz.ru/iptv/8XFKA8883W9M5K/12169/manifest.m3u8
-RealityKings,http://45.136.153.199:80/RealityKings/mono.m3u8
 центральное тв Ru,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/20090/manifest.m3u8
-Центральное ТВ RU,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/20090/manifest.m3u8
+Asshole Fever россия,http://d029dcec.kazmazpaz.ru/iptv/8XFKA8883W9M5K/12169/manifest.m3u8
 Hotguys,http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/N38U657879GPVVDFAYZ26AX5/6223/index.m3u8
-BangU,http://169.150.223.25/BangU/index.m3u8
-BangU,http://79.127.207.193:80/BangU/playlist.m3u8
-BangU.http://45.136.153.199:80/BangU/mono.m3u8
-Babes TV,http://45.136.153.199:80/BabesTV/mono.m3u8
 Dorcel TV,http://77.46.130.252:99/dorcel
 Private,http://77.46.130.252:99/private
-RealityKings,http://79.127.207.193:80/RealityKings/playlist.m3u8
 XY Plus HD,http://85.11.144.9:3341/103
 XY Max HD,http://85.11.144.9:3341/102
 XY Mix HD,http://85.11.144.9:3341/101
@@ -35,6 +27,7 @@ HOT1 HD,http://85.11.144.9:3341/34
 Penthouse Passion россия,http://141.95.55.143/CH3517/index.m3u8
 EROX РОССИЯ,http://141.95.55.143/CH1193/index.m3u8
 Redlight РОССИЯ,http://141.95.55.143/CH745/index.m3u8
+
 PENTHOUSE РОССИЯ,http://141.95.55.143/CH3479/index.m3u8
 PRIVATE РОССИЯ,http://141.95.55.143/CH1191/index.m3u8
 BABES TV РОССИЯ,http://141.95.55.143/CH1189/index.m3u8
@@ -47,9 +40,40 @@ Brazzers TV Europe,http://193.239.186.231/BRAZZERS/index.m3u8
 Playboy,http://201.207.54.159:8000/play/a06u/index.m3u8
 Playboy,http://45.228.235.116:8000/play/a02t/index.m3u8
 Playboy,http://190.93.191.4:9898/play/a07t/index.m3u8
+Redlight,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/242/index.m3u8
+PRIVATE,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/243/index.m3u8
+Dorcel TV HD,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12131/index.m3u8
+Flix,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12130/index.m3u8
+Brazzers,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12128/index.m3u8
+Brazzers TV Europe,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12113/index.m3u8
+Meiden,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12125/index.m3u8
+Vixen,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12124/index.m3u8
+Naughty,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12122/index.m3u8
+Aladding,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12121/index.m3u8
+21sextury,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12111/index.m3u8
+Erotic,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12110/index.m3u8
+Eroticax,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12109/index.m3u8
+DDF,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12108/index.m3u8
+Erotic4k,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12107/index.m3u8
+Alba,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12106/index.m3u8
+Ox-ax,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/11068/index.m3u8
+Kinxxx,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/11052/index.m3u8
+Extasy,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/11051/index.m3u8
+Eromania4k,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/10049/index.m3u8
+REDLIGHT,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/9066/index.m3u8
+Hustler HD,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/9065/index.m3u8
+DORCELTV,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/9064/index.m3u8
+SuperoneHD,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6298/index.m3u8
+Erox,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6296/index.m3u8
+erotic8,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6295/index.m3u8
+erotic7,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6294/index.m3u8
+erotic6,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6293/index.m3u8
+Brazzers TV Europe,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/11117/index.m3u8
 Dorcel TV HD,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12131/index.m3u8
 Flix,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12130/index.m3u8
+Flix,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12130/index.m3u8
 Brazzers,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12128/index.m3u8
+Brazzers,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12128/index.m3u8
 Brazzers TV Europe,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12113/index.m3u8
 Meiden,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12125/index.m3u8
 Vixen,http://ed86cf38.ucomist.net/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/12124/index.m3u8
@@ -212,3 +236,10 @@ XXX Live Cams,https://cdn.adultiptv.net/livecams.m3u8
 xxx live,http://live.redtraffic.net/livecams.m3u8
 xxx latina,https://cdn.adultiptv.net/latina.m3u8
 xxx latina,http://live.redtraffic.net/latina.m3u8
+RealityKings,http://45.136.153.199:80/RealityKings/mono.m3u8
+RealityKings,http://45.136.153.199:80/RealityKings/mono.m3u8
+BangU,http://169.150.223.25/BangU/index.m3u8
+BangU,http://79.127.207.193:80/BangU/playlist.m3u8
+BangU.http://45.136.153.199:80/BangU/mono.m3u8
+Babes TV,http://45.136.153.199:80/BabesTV/mono.m3u8
+RealityKings,http://79.127.207.193:80/RealityKings/playlist.m3u8
