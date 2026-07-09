@@ -8,22 +8,21 @@
 松视1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 松视2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 松视3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+Penthouse Passion россия,http://141.95.55.143/CH3517/index.m3u8
+EROX РОССИЯ,http://141.95.55.143/CH1193/index.m3u8
+Redlight РОССИЯ,http://141.95.55.143/CH745/index.m3u8
+PENTHOUSE РОССИЯ,http://141.95.55.143/CH3479/index.m3u8
+PRIVATE РОССИЯ,http://141.95.55.143/CH1191/index.m3u8
+BABES TV РОССИЯ,http://141.95.55.143/CH1189/index.m3u8
+VIVID RED РОССИЯ,http://141.95.55.143/CH1187/index.m3u8
+HUSTLER HD РОССИЯ,http://141.95.55.143/CH743/index.m3u8
+EXXXOTICA РОССИЯ,http://141.95.55.143/CH535/index.m3u8
 центральное тв Ru,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/20090/manifest.m3u8
 Asshole Fever россия,http://d029dcec.kazmazpaz.ru/iptv/8XFKA8883W9M5K/12169/manifest.m3u8
 Hotguys,http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/N38U657879GPVVDFAYZ26AX5/6223/index.m3u8
 Dorcel TV,http://77.46.130.252:99/dorcel
+Redlight,http://ru.iptv.monster/play/594/manifest.m3u8?token=623939143BE8A4B
 Private,http://77.46.130.252:99/private
-XY Plus HD,http://85.11.144.9:3341/103
-XY Max HD,http://85.11.144.9:3341/102
-XY Mix HD,http://85.11.144.9:3341/101
-Redlight HD,http://85.11.144.9:3341/39
-Blue Hustler,http://85.11.144.9:3341/30
-Erox,http://85.11.144.9:3341/28
-Eroxxx HD,http://85.11.144.9:3341/29
-passionxxx,http://85.11.144.9:3341/33
-Playboy HD,http://85.11.144.9:3341/47
-Crota HD,http://85.11.144.9:3341/31
-HOT1 HD,http://85.11.144.9:3341/34
 Brazzers TV Europe,http://193.239.186.231/BRAZZERS/index.m3u8
 Playboy,http://201.207.54.159:8000/play/a06u/index.m3u8
 Playboy,http://45.228.235.116:8000/play/a02t/index.m3u8
@@ -121,6 +120,7 @@ Brazzers,http://193.239.186.231/BRAZZERS/index.m3u8
 Playboy,http://31.148.48.15/Playboy_TV/index.m3u8
 Playboy TV Latin America,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 Fashion_TV,http://31.148.48.15/Fashion_TV/index.m3u8
+FASHION ONE,https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
 Fashion_TVHD,http://169.150.223.25/FashionTV/index.m3u8
 FHM Fashion Hou...afia (USA) (🇺🇸),https://fl1004.bozztv.com/ushba-mafia/index.m3u8
 Playboy_TV,http://31.148.48.15:80/Playboy_TV/playlist.m3u8
@@ -203,12 +203,15 @@ BangU,http://79.127.207.193:80/BangU/playlist.m3u8
 BangU.http://45.136.153.199:80/BangU/mono.m3u8
 Babes TV,http://45.136.153.199:80/BabesTV/mono.m3u8
 RealityKings,http://79.127.207.193:80/RealityKings/playlist.m3u8
-Penthouse Passion россия,http://141.95.55.143/CH3517/index.m3u8
-EROX РОССИЯ,http://141.95.55.143/CH1193/index.m3u8
-Redlight РОССИЯ,http://141.95.55.143/CH745/index.m3u8
-PENTHOUSE РОССИЯ,http://141.95.55.143/CH3479/index.m3u8
-PRIVATE РОССИЯ,http://141.95.55.143/CH1191/index.m3u8
-BABES TV РОССИЯ,http://141.95.55.143/CH1189/index.m3u8
-VIVID RED РОССИЯ,http://141.95.55.143/CH1187/index.m3u8
-HUSTLER HD РОССИЯ,http://141.95.55.143/CH743/index.m3u8
-EXXXOTICA РОССИЯ,http://141.95.55.143/CH535/index.m3u8
+XY Plus HD,http://85.11.144.9:3341/103
+XY Max HD,http://85.11.144.9:3341/102
+XY Mix HD,http://85.11.144.9:3341/101
+Redlight HD,http://85.11.144.9:3341/39
+Blue Hustler,http://85.11.144.9:3341/30
+Erox,http://85.11.144.9:3341/28
+Eroxxx HD,http://85.11.144.9:3341/29
+passionxxx,http://85.11.144.9:3341/33
+Playboy HD,http://85.11.144.9:3341/47
+Crota HD,http://85.11.144.9:3341/31
+HOT1 HD,http://85.11.144.9:3341/34
+
