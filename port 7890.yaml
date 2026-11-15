@@ -13,7 +13,7 @@ password: 11b8b36a-f547-4f98-a460-1da717f13cc3
 sni: edge-45ed6249.pages.dev
 skip-cert-verify: false
 network: ws
-ws-opts: path: "/?ed=2048"
+ws-opts: path: /?ed=2048
 headers: edge-45ed6249.pages.dev
 - name: 联通-SJC-08
 server: 104.17.130.63
@@ -23,5 +23,5 @@ password: 11b8b36a-f547-4f98-a460-1da717f13cc3
 sni: edge-45ed6249.pages.dev
 skip-cert-verify: false
 network: ws
-ws-opts: path: "/?ed=2048"
+ws-opts: path: /?ed=2048
 headers: Host: edge-45ed6249.pages.dev
