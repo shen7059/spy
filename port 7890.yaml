@@ -4,24 +4,28 @@ allow-lan: true
 mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
-proxies: 
-- name: 联通-SJC-07
-type: trojan
-server: 104.17.150.74
-port: 443
-password: 11b8b36a-f547-4f98-a460-1da717f13cc3
-sni: edge-45ed6249.pages.dev
-skip-cert-verify: false
-network: ws
-ws-opts: path: /?ed=2048
-headers: edge-45ed6249.pages.dev
-- name: 联通-SJC-08
-server: 104.17.130.63
-port: 443
-type: trojan
-password: 11b8b36a-f547-4f98-a460-1da717f13cc3
-sni: edge-45ed6249.pages.dev
-skip-cert-verify: false
-network: ws
-ws-opts: path: /?ed=2048
-headers: Host: edge-45ed6249.pages.dev
+proxies:
+  - name: 联通-SJC-07
+    type: trojan
+    server: 104.17.150.74
+    port: 443
+    password: 11b8b36a-f547-4f98-a460-1da717f13cc3
+    sni: edge-45ed6249.pages.dev
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: edge-45ed6249.pages.dev
+  - name: 联通-SJC-08
+    server: 104.17.130.63
+    port: 443
+    type: trojan
+    password: 11b8b36a-f547-4f98-a460-1da717f13cc3
+    sni: edge-45ed6249.pages.dev
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        Host: edge-45ed6249.pages.dev
